@@ -1,4 +1,5 @@
 Projeto React: Teste seus componentes | Jest | Testing Library
+
 Testando componentes de aplicação contador
 
 ![image](https://github.com/professorjonathan/projeto_testes_jest/assets/115835116/3873ff9e-6a35-4a5b-adc0-f057d0177f8a)
