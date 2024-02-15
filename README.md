@@ -1,3 +1,10 @@
+Projeto React: Teste seus componentes | Jest | Testing Library
+Testando componentes de aplicação contador
+
+![image](https://github.com/professorjonathan/projeto_testes_jest/assets/115835116/3873ff9e-6a35-4a5b-adc0-f057d0177f8a)
+![image](https://github.com/professorjonathan/projeto_testes_jest/assets/115835116/239ce18c-8f80-4571-b637-1eab8ffefb0e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
